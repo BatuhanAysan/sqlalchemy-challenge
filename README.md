@@ -34,10 +34,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-### 5️⃣ **Open the API in Browser**
-
-🔗 http://127.0.0.1:5000/
-
 ## 📊 Exploratory Data Analysis (EDA)
 
 Before building the API, I conducted an **exploratory data analysis (EDA)** using Jupyter Notebook.  
